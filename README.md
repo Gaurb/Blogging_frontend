@@ -1,4 +1,4 @@
-# 12MegaBlog
+# MegaBlog
 
 ![MegaBlog Logo](./src/assets/react.svg) <!-- Replace with actual logo if available -->
 
@@ -14,7 +14,7 @@
 - **Responsive Design**: Mobile-friendly interface with Tailwind CSS.
 - **State Management**: Uses Redux Toolkit for handling application state, including authentication status.
 - **Routing**: Managed with React Router for seamless navigation.
-- **Form Handling**: Utilizes React Hook Form for efficient form management.
+- **Form Handling**: Utilises React Hook Form for efficient form management.
 
 ## Technologies Used
 
@@ -38,8 +38,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/12MegaBlog.git
-   cd 12MegaBlog
+   git clone https://github.com/yourusername/Blogging_frontend.git
+   cd Blogging_frontend
    ```
 
 2. Install dependencies:
@@ -82,7 +82,7 @@ Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add YourFeature'`).
+3. Commit your changes (`git commit -m 'Add YourFeature').
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
