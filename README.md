@@ -4,7 +4,11 @@
 
 ## Overview
 
-12MegaBlog is a modern, full-featured blog application built with React and Vite, powered by Appwrite for backend services. It allows users to create accounts, authenticate, and manage blog posts with a rich text editor. The application features a clean, responsive UI and handles user sessions efficiently.
+MegaBlog is a modern, full-featured blog application built with React and Vite, powered by Appwrite for backend services. It allows users to create accounts, authenticate, and manage blog posts with a rich text editor. The application features a clean, responsive UI and handles user sessions efficiently.
+
+## Live Demo
+
+Check out the live application at [MegaBlog Live](https://megablogging.netlify.app)
 
 ## Features
 
